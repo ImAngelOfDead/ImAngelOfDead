@@ -23,7 +23,6 @@ If you find something useful, it was either magic or a lucky accident.
 Updates? Sure, when inspiration strikes… or when I finally figure out what I was doing.
 
 ----------
-<p align="center"><img align="center"  width="182" src="https://komarev.com/ghpvc/?username=m3th4d0nM&color=green&label=m3th4d0n%20profile%20views"/></p> 
 <p align="center"><a href=#><img src="contributions.svg"></a></p> 
 <div align="center">
 
