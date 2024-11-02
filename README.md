@@ -23,8 +23,6 @@ If you find something useful, it was either magic or a lucky accident.
 Updates? Sure, when inspiration strikes… or when I finally figure out what I was doing.
 
 ----------
-<h3 align="center"><samp> Hi, I'am Moisés👋 </samp></h4> 
-<h1 align="center">FullStack DEV Javascript💻</h1>
 <p align="center"><img align="center"  width="182" src="https://komarev.com/ghpvc/?username=DeveloperMDCM&color=green&label=DeveloperMDCM%20profile%20views"/></p> 
 <p align="center"><a href=#><img src="contributions.svg"></a></p> 
 <div align="center">
