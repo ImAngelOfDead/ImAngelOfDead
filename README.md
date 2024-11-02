@@ -23,16 +23,9 @@ If you find something useful, it was either magic or a lucky accident.
 Updates? Sure, when inspiration strikes… or when I finally figure out what I was doing.
 
 ----------
-
-## Get in Touch!
-
-Feel free to reach out if you want to chat, suggest a project, or just laugh at my code:
-
-<a href="https://t.me/ImAngelOfDead"><img src="https://simpleicons.org/icons/telegram.svg" width="20" height="20" alt="Telegram"/> **Telegram**</a>
-
-<a> <img src="https://simpleicons.org/icons/discord.svg" width="20" height="20" alt="Discord"/> **kys.dog**</a>
-
-<a href="https://steamcommunity.com/id/eto008/"><img src="https://simpleicons.org/icons/steam.svg" width="20" height="20" alt="Steam"/> **Steam**</a>
-
-----------
+<h3 align="center"><samp> Hi, I'am Moisés👋 </samp></h4> 
+<h1 align="center">FullStack DEV Javascript💻</h1>
+<p align="center"><img align="center"  width="182" src="https://komarev.com/ghpvc/?username=DeveloperMDCM&color=green&label=DeveloperMDCM%20profile%20views"/></p> 
+<p align="center"><a href=#><img src="contributions.svg"></a></p> 
+<div align="center">
 
