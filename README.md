@@ -165,10 +165,12 @@
     no
   </p>
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m3th4d0n&show_icons=true&theme=radical" alt="Your Name's GitHub Stats">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m3th4d0n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m3th4d0n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 </p>
+
 
 <footer align="center">
   <p>Made with ❤️ by m3th4d0n</p>
