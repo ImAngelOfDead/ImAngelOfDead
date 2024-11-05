@@ -1,36 +1,139 @@
-<h3 align="center"><samp> Hi, I'am m3th4d0n👋 </samp></h4> 
-<h1 align="center">FullStack DEV 💻</h1>
-<p align="center"><a href=#><img src="contributions.svg"></a></p> 
-<div align="center">
+<h1 align="center">👋 Hello, I'm m3th4d0n!</h1>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/127452038?v=4&size=64" alt="profile picture" width="150" style="border-radius:50%">
+</p>
+<p align="center">
+  <i>A passionate developer who loves coding, learning, and creating new things!</i>
+</p>
 
-  ## Mis Lenguajes y herramientas
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-FF2D20?style=flat&logo=Angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=Redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/-Zustand.js-0074D9?style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=Vercel&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
-##
-### Redes Sociales
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/m3th4d0n)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/m3th4d0n)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/m3th4d0n)
+<div align="center">
+  <h2>🚀 Tech Stack</h2>
+  <p>
+    <img src="https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure">
+    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion">
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack">
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
+    <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify">
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
+    <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" alt="JIRA">
+    <img src="https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white" alt="Asana">
+    <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache">
+    <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
+    <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+    <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry">
+    <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=notepad%2B%2B&logoColor=black" alt="Notepad++">
+    <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio">
+    <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
+    <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch&logoColor=white" alt="Sketch">
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva">
+    <img src="https://img.shields.io/badge/Dropbox-0061FF?style=flat-square&logo=dropbox&logoColor=white" alt="Dropbox">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack">
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins">
+    <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier">
+    <img src="https://img.shields.io/badge/Safari-333333?style=flat-square&logo=safari&logoColor=white" alt="Safari">
+    <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
+    <img src="https://img.shields.io/badge/Atlassian-0052CC?style=flat-square&logo=atlassian&logoColor=white" alt="Atlassian">
+    <img src="https://img.shields.io/badge/IFTTT-000000?style=flat-square&logo=ifttt&logoColor=white" alt="IFTTT">
+    <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox">
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
+    <img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Udemy">
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify">
+    <img src="https://img.shields.io/badge/Squarespace-222222?style=flat-square&logo=squarespace&logoColor=white" alt="Squarespace">
+    <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white" alt="Sublime Text">
+    <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode">
+    <img src="https://img.shields.io/badge/Prezi-3181FF?style=flat-square&logo=prezi&logoColor=white" alt="Prezi">
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" alt="Eclipse">
+    <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" alt="Zoom">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Opera-FF1B2D?style=flat-square&logo=opera&logoColor=white" alt="Opera">
+    <img src="https://img.shields.io/badge/Vimeo-1AB7EA?style=flat-square&logo=vimeo&logoColor=white" alt="Vimeo">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender">
+    <img src="https://img.shields.io/badge/Fortnite-9146FF?style=flat-square&logo=fortnite&logoColor=white" alt="Fortnite">
+    <img src="https://img.shields.io/badge/Diagrams.net-F08705?style=flat-square&logo=diagrams.net&logoColor=white" alt="Diagrams.net">
+    <img src="https://img.shields.io/badge/Waze-33CC99?style=flat-square&logo=waze&logoColor=white" alt="Waze">
+    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=google-drive&logoColor=white" alt="Google Drive">
+    <img src="https://img.shields.io/badge/Krita-3BABFF?style=flat-square&logo=krita&logoColor=white" alt="Krita">
+    <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white" alt="GIMP">
+    <img src="https://img.shields.io/badge/LibreOffice-18A303?style=flat-square&logo=libreoffice&logoColor=white" alt="LibreOffice">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+    <img src="https://img.shields.io/badge/VLC%20Media%20Player-FF8800?style=flat-square&logo=vlc-media-player&logoColor=white" alt="VLC Media Player">
+    <img src="https://img.shields.io/badge/Opera%20GX-FF1B2D?style=flat-square&logo=opera-gx&logoColor=white" alt="Opera GX">
+    <img src="https://img.shields.io/badge/DeviantArt-05CC47?style=flat-square&logo=deviantart&logoColor=white" alt="DeviantArt">
+    <img src="https://img.shields.io/badge/Replit-667881?style=flat-square&logo=replit&logoColor=white" alt="Replit">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode">
+    <img src="https://img.shields.io/badge/Airbnb-FF5A5F?style=flat-square&logo=airbnb&logoColor=white" alt="Airbnb">
+    <img src="https://img.shields.io/badge/Bumble-FFB300?style=flat-square&logo=bumble&logoColor=white" alt="Bumble">
+    <img src="https://img.shields.io/badge/Pocket-EE4056?style=flat-square&logo=pocket&logoColor=white" alt="Pocket">
+    <img src="https://img.shields.io/badge/Nintendo%20Switch-E60012?style=flat-square&logo=nintendo-switch&logoColor=white" alt="Nintendo Switch">
+    <img src="https://img.shields.io/badge/OnlyFans-000000?style=flat-square&logo=onlyfans&logoColor=white" alt="OnlyFans">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok">
+    <img src="https://img.shields.io/badge/Pi--hole-96060C?style=flat-square&logo=pi-hole&logoColor=white" alt="Pi-hole">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/iCloud-3693F3?style=flat-square&logo=icloud&logoColor=white" alt="iCloud">
+    <img src="https://img.shields.io/badge/Grammarly-15C39A?style=flat-square&logo=grammarly&logoColor=white" alt="Grammarly">
+    <img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white" alt="Steam">
+    <img src="https://img.shields.io/badge/PlayStation-003791?style=flat-square&logo=playstation&logoColor=white" alt="PlayStation">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
+
+
+  </p>
 </div>
+
+<div align="center">
+  <h2>💼 Projects & Contributions</h2>
+  <p>Here are some of the cool projects I've been working on:</p>
+  <ul>
+    <li><a href="https://github.com/m3th4d0n/YtMusic-RPC">YtMusic-RPC</a> - A Discord integration to display YouTube Music tracks.</li>
+  </ul>
+</div>
+
+<div align="center">
+  <h2>📫 Let's Connect</h2>
+  <p>
+    no
+  </p>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m3th4d0n&show_icons=true&theme=radical" alt="Your Name's GitHub Stats">
+</p>
+
+<footer align="center">
+  <p>Made with ❤️ by m3th4d0n</p>
+</footer>
