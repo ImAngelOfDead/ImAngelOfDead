@@ -71,11 +71,12 @@
     <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox">
     <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
     <img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Udemy">
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify">
+    <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify">
     <img src="https://img.shields.io/badge/Squarespace-222222?style=flat-square&logo=squarespace&logoColor=white" alt="Squarespace">
     <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white" alt="Sublime Text">
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode">
     <img src="https://img.shields.io/badge/Prezi-3181FF?style=flat-square&logo=prezi&logoColor=white" alt="Prezi">
+    <img src="https://img.shields.io/badge/Pornhub-FF9900?style=flat-square&logo=pornhub&logoColor=white" alt="Pornhub">
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" alt="Eclipse">
     <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" alt="Zoom">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
@@ -110,6 +111,39 @@
     <img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white" alt="Steam">
     <img src="https://img.shields.io/badge/PlayStation-003791?style=flat-square&logo=playstation&logoColor=white" alt="PlayStation">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
+    <img src="https://img.shields.io/badge/Amazon%20Prime-FF9900?style=flat-square&logo=amazon-prime&logoColor=white" alt="Amazon Prime">
+    <img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=white" alt="Minecraft">
+    <img src="https://img.shields.io/badge/Tinder-FF6B6B?style=flat-square&logo=tinder&logoColor=white" alt="Tinder">
+    <img src="https://img.shields.io/badge/Playboy-FFB6C1?style=flat-square&logo=playboy&logoColor=white" alt="Playboy">
+    <img src="https://img.shields.io/badge/RedTube-FF0000?style=flat-square&logo=redtube&logoColor=white" alt="RedTube">
+    <img src="https://img.shields.io/badge/Pepsi-005BBB?style=flat-square&logo=pepsi&logoColor=white" alt="Pepsi">
+    <img src="https://img.shields.io/badge/Coca--Cola-FF0015?style=flat-square&logo=coca-cola&logoColor=white" alt="Coca-Cola">
+    <img src="https://img.shields.io/badge/McDonald's-FBC817?style=flat-square&logo=mcdonalds&logoColor=white" alt="McDonald's">
+    <img src="https://img.shields.io/badge/KFC-D32E2E?style=flat-square&logo=kfc&logoColor=white" alt="KFC">
+    <img src="https://img.shields.io/badge/Lays-FFD700?style=flat-square&logo=lays&logoColor=white" alt="Lays">
+    <img src="https://img.shields.io/badge/Adult%20Swim-000000?style=flat-square&logo=adult-swim&logoColor=white" alt="Adult Swim">
+    <img src="https://img.shields.io/badge/Snickers-8B3A3A?style=flat-square&logo=snickers&logoColor=white" alt="Snickers">
+    <img src="https://img.shields.io/badge/Wikipedia-000000?style=flat-square&logo=wikipedia&logoColor=white" alt="Wikipedia">
+    <img src="https://img.shields.io/badge/NASA-FA0020?style=flat-square&logo=nasa&logoColor=white" alt="NASA">
+    <img src="https://img.shields.io/badge/Nutella-6F1503?style=flat-square&logo=nutella&logoColor=white" alt="Nutella">
+    <img src="https://img.shields.io/badge/Netflix-E50914?style=flat-square&logo=netflix&logoColor=white" alt="Netflix">
+    <img src="https://img.shields.io/badge/Red%20Bull-F20000?style=flat-square&logo=red-bull&logoColor=white" alt="Red Bull">
+    <img src="https://img.shields.io/badge/Napster-000000?style=flat-square&logo=napster&logoColor=white" alt="Napster">
+    <img src="https://img.shields.io/badge/Shazam-0088CC?style=flat-square&logo=shazam&logoColor=white" alt="Shazam">
+    <img src="https://img.shields.io/badge/Wendy's-E22027?style=flat-square&logo=wendys&logoColor=white" alt="Wendy's">
+    <img src="https://img.shields.io/badge/Fanta-FF8000?style=flat-square&logo=fanta&logoColor=white" alt="Fanta">
+    <img src="https://img.shields.io/badge/Pokemon-FFCB05?style=flat-square&logo=pokemon&logoColor=black" alt="Pokemon">
+    <img src="https://img.shields.io/badge/8track-FF4747?style=flat-square&logo=8tracks&logoColor=white" alt="8track">
+    <img src="https://img.shields.io/badge/Disney-113CCF?style=flat-square&logo=disney&logoColor=white" alt="Disney">
+    <img src="https://img.shields.io/badge/Verizon-CD040B?style=flat-square&logo=verizon&logoColor=white" alt="Verizon">
+    <img src="https://img.shields.io/badge/Burger%20King-EC1C24?style=flat-square&logo=burger-king&logoColor=white" alt="Burger King">
+    <img src="https://img.shields.io/badge/Walmart-0071CE?style=flat-square&logo=walmart&logoColor=white" alt="Walmart">
+    <img src="https://img.shields.io/badge/Grubhub-EE4E34?style=flat-square&logo=grubhub&logoColor=white" alt="Grubhub">
+    <img src="https://img.shields.io/badge/Air%20Force-0033A0?style=flat-square&logo=air-force&logoColor=white" alt="Air Force">
+    <img src="https://img.shields.io/badge/Barbie-DAA8A1?style=flat-square&logo=barbie&logoColor=white" alt="Barbie">
+    <img src="https://img.shields.io/badge/Hogwarts-660066?style=flat-square&logo=hogwarts&logoColor=white" alt="Hogwarts">
+    <img src="https://img.shields.io/badge/Mafia-000000?style=flat-square&logo=mafia&logoColor=white" alt="Mafia">
+    <img src="https://img.shields.io/badge/Hallmark-DAA520?style=flat-square&logo=hallmark&logoColor=white" alt="Hallmark">
 
 
   </p>
