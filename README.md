@@ -144,7 +144,8 @@
     <img src="https://img.shields.io/badge/Hogwarts-660066?style=flat-square&logo=hogwarts&logoColor=white" alt="Hogwarts">
     <img src="https://img.shields.io/badge/Mafia-000000?style=flat-square&logo=mafia&logoColor=white" alt="Mafia">
     <img src="https://img.shields.io/badge/Hallmark-DAA520?style=flat-square&logo=hallmark&logoColor=white" alt="Hallmark">
-    <img src="https://img.shields.io/badge/Dota%202-FA320A?style=flat-square&logo=dota&logoColor=white" alt="Dota 2">
+    <img src="https://img.shields.io/badge/Dota%202-FA320A?style=flat-square&logo=dota-2&logoColor=white" alt="Dota 2">
+
 
 
   </p>
