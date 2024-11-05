@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm m3th4d0n!</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/127452038?v=4&size=64" alt="profile picture" width="150" style="border-radius:50%">
+  <img src="https://avatars.githubusercontent.com/u/127452038?v=4&size=150" alt="profile picture" width="150" style="border-radius:50%">
 </p>
 <p align="center">
   <i>A passionate developer who loves coding, learning, and creating new things!</i>
