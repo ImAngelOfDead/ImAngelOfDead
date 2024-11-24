@@ -3,7 +3,8 @@
   <img src="https://avatars.githubusercontent.com/u/127452038?v=4&size=150" alt="profile picture" width="150" style="border-radius:50%">
 </p>
 <p align="center">
-  <i>A passionate developer who loves coding, learning, and creating new things!</i>
+  <i>A passionate developer who loves coding, learning, and creating new things!(very love sheetcoding)</i>
+
 </p>
 
 <div align="center">
