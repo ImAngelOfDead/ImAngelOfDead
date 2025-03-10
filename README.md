@@ -28,8 +28,8 @@ Just someone who enjoys writing code and exploring new things.
 ### 🔥 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m3th4d0n&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m3th4d0n&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ImAngelOfDead&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImAngelOfDead&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 </p>
 
 ---
