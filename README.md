@@ -30,6 +30,8 @@ Just someone who enjoys writing code and exploring new things.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ImAngelOfDead&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImAngelOfDead&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImAngelOfDead&theme=dracula" alt="Stats2">
+
 </p>
 
 ---
