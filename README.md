@@ -37,3 +37,7 @@ Just someone who enjoys writing code and exploring new things.
 ---
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=m3th4d0n&style=flat-square&color=blue" alt="Profile Views"></p>
+
+---
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/560112831371149312)](https://discord.com/users/560112831371149312)
