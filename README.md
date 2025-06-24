@@ -40,4 +40,5 @@ Just someone who enjoys writing code and exploring new things.
 
 ---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/560112831371149312)](https://discord.com/users/560112831371149312)
+<p align="center"><img src="https://lanyard.cnrad.dev/api/560112831371149312" alt="Profile Views"></p>
+
